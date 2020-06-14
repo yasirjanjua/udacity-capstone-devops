@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterKey":"ProjectName",
+    "ParameterValue": "Capstone-Project"
+  },
+  {
+    "ParameterKey":"StudentName",
+    "ParameterValue": "YasirJanjua"
+  },
+  {
+    "ParameterKey":"PemKeyName",
+    "ParameterValue": "aws-oregon-key"
+  },
+  {
+    "ParameterKey":"JenkinsRole",
+    "ParameterValue": "JenkinsCICDRole"
+  },
+  {
+    "ParameterKey": "ImageID",
+    "ParameterValue": "ami-0afda12fb50ca450c"
+  },
+  {
+    "ParameterKey":"Type",
+    "ParameterValue": "t2.micro"
+  }
+]
